@@ -1,1 +1,5 @@
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+CCTV7,http://222.243.24.51:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0 
+CCTV8,http://121.19.134.2:808/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0 
+CCTV9,http://118.212.69.221:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0 
+CCTV10,http://222.243.24.51:9901/tsfile/live/0010_2.m3u8?key=txiptv&playlive=1&authid=0 
+CCTV11,http://221.226.218.162:9901/tsfile/live/65442_1.m3u8?key=txiptv&playlive=1&authid=0
